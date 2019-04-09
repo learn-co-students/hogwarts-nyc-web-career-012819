@@ -3,3 +3,10 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.oneHog {
+  border-style: groove;
+  border-color: black;
+  padding: 1px;
+  margin: 1px;
+}
